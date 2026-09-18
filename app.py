@@ -456,3 +456,4 @@ elif modo == "📖 Documentación":
          $$\\text{Score Compuesto} = 0.25 \\times S_{\\text{léxico}} + 0.35 \\times S_{\\text{semántico}} + 0.40 \\times P_{\\text{ML}}$$
        - Asignación de niveles operativos de respuesta SOC: `CRÍTICO`, `ALTO`, `MEDIO` y `BAJO`.
     """)
+
